@@ -1,0 +1,12 @@
+body
+{
+    background-image: url(LS/ld.gif);
+    background-attachment: fixed;
+    background-position: center;
+    background-color:black;
+    background-repeat: no-repeat;
+}
+.txt
+{
+    color: white;
+}
